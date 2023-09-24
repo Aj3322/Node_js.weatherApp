@@ -1,0 +1,22 @@
+{
+  "name": "wheatherapp",
+  "version": "1.0.0",
+  "description": "Creating a Weather node.js App",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aj3322/Node_js.weatherApp.git"
+  },
+  "author": "Ajay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aj3322/Node_js.weatherApp/issues"
+  },
+  "homepage": "https://github.com/Aj3322/Node_js.weatherApp#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
