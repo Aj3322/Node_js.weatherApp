@@ -40,4 +40,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 This project uses quotes provided by the [Type.fit API](https://type.fit/api/quotes).
 
 
-Enjoy using TweetMe and sharing inspiring quotes with the world! If you have any questions or suggestions, feel free to [open an issue](https://github.com/your-username/your-repo/issues) or contribute to the project.
