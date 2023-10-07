@@ -41,10 +41,6 @@ Once the application is running, you can access it in your web browser by naviga
 
 You can customize the location for which you want to fetch weather data by modifying the API URL in the code. You can also customize the HTML template in the `Home.html` file to change the appearance of the webpage.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Node.js](https://nodejs.org/)
@@ -52,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name](https://github.com/Aj3322)
+[Aj_Styles](https://github.com/Aj3322)
 
 ## Contributing
 
