@@ -18,7 +18,7 @@ Before running this application, you need to have Node.js installed on your mach
 
    ```bash
    https://github.com/Aj3322/Node_js.weatherApp.git
-   cd weather-app
+   cd weatherApp
    ```
 
 2. Install the required npm packages:
