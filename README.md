@@ -57,6 +57,4 @@ You can customize the location for which you want to fetch weather data by modif
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
 
-Feel free to contribute to this project by adding new features or fixing bugs. Your contributions are greatly appreciated!
 
----
